@@ -2,10 +2,10 @@
 In this project, I developed an ANN framework from scratch that can be used to train and evaluate Fully Connected Neural Networks for different tasks. I use this framework to train an ANN model for the ```Handwritten Digit Recognition``` Task, one of the most famous machine learning and Computer Vision tasks.
 
 ## Table of Contents
-* [Dataset](https://github.com/MohammadJavadArdestani/Data-Mining-projects/edit/main/Diabetes_detection_by_XGBoost_Classifier/README.md#dataset)
-* [ANN Framework](https://github.com/MohammadJavadArdestani/Data-Mining-projects/edit/main/Diabetes_detection_by_XGBoost_Classifier/README.md#preprocessing)
-* [HandWritten Digit Recognition](https://github.com/MohammadJavadArdestani/Data-Mining-projects/edit/main/Diabetes_detection_by_XGBoost_Classifier/README.md#xgboost-model)
-* [Adversarial Attack by Shifting Digit Pattern Matrices](https://github.com/MohammadJavadArdestani/Data-Mining-projects/edit/main/Diabetes_detection_by_XGBoost_Classifier/README.md#xgboost-model)
+* [Dataset](https://github.com/MohammadJavadArdestani/HandWritten-Digit-Recognition-by-Neural-Network/blob/main/README.md#dataset)
+* [ANN Framework](https://github.com/MohammadJavadArdestani/HandWritten-Digit-Recognition-by-Neural-Network/blob/main/README.md#ann-framework)
+* [HandWritten Digit Recognition](https://github.com/MohammadJavadArdestani/HandWritten-Digit-Recognition-by-Neural-Network/blob/main/README.md#handwritten-digit-recognition)
+* [Adversarial Attack by Shifting Digit Pattern Matrices](https://github.com/MohammadJavadArdestani/HandWritten-Digit-Recognition-by-Neural-Network/blob/main/README.md#adversarial-attack-by-shifting-digit-pattern-matrices)
 
 ## Dataset
 The MNIST dataset is used in this project. For more details, click [Here](http://yann.lecun.com/exdb/mnist/).
