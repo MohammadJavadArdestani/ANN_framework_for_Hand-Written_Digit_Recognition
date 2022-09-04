@@ -1,4 +1,5 @@
-# HandWritten Digit Recognition by Neural Network from Scratch 
+# ANN Framework From Scratch for HandWritten Digit Recognition
+
 In this project, I developed an ANN framework from scratch that can be used to train and evaluate Fully Connected Neural Networks for different tasks. I use this framework to train an ANN model for the ```Handwritten Digit Recognition``` Task, one of the most famous machine learning and Computer Vision tasks.
 
 ## Table of Contents
